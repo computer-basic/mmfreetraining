@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Computer Basic",
+        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+    },
+    {
+        "id": 2,
+        "title": "Computer Knowledge",
+        "thumbnail": "https://i.imgur.com/aqpUxj0.png"
+    },
+    {
+        "id": 3,
+        "title": "Microsoft Word",
+        "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
+    },
+    {
+        "id": 4,
+        "title": "Microsoft Excel",
+        "thumbnail": "https://i.imgur.com/cOtAvFa.png"
+    },
+    {
+        "id": 5,
+        "title": "Microsoft PowerPoint",
+        "thumbnail": "https://i.imgur.com/7tU0XjV.png"
+    },
+    {
+        "id": 6,
+        "title": "Adobe Photoshop",
+        "thumbnail": "https://i.imgur.com/CFIrhBo.png"
+    },
+    {
+        "id": 7,
+        "title": "Adobe Premier Pro",
+        "thumbnail": "https://i.imgur.com/eX0GGCl.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Adobe Pagemaker",
+        "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
+    },
+    {
+        "id": 9,
+        "title": "AutoCAD (Basic)",
+        "thumbnail": "https://i.imgur.com/inDO4kO.png"
+    },
+    {
+        "id": 10,
+        "title": "Sketchware",
+        "thumbnail": "https://i.imgur.com/jWIJQFu.png"
+    },
+    {
+        "id": 11,
+        "title": "AutoCAD (Intermediate)",
+        "thumbnail": "https://i.imgur.com/inDO4kO.png"
+    },
+    {
+        "id": 12,
+        "title": "SketchUp",
+        "thumbnail": "https://i.imgur.com/fv8Uwky.png"
+    },
+    {
+        "id": 13,
+        "title": "HTML",
+        "thumbnail": "https://i.imgur.com/at4aoSL.png"
+    },
+    {
+        "id": 14,
+        "title": "PHP",
+        "thumbnail": "https://i.imgur.com/Gx2Ishb.png"
+    }
+]
