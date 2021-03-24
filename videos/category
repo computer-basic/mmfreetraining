@@ -1,30 +1,30 @@
 [
     {
-        "category": "it",
-        "thumbnail": "https://longreadsblog.files.wordpress.com/2019/01/GettyImages-955854460.jpg?w=1200"
+        "category": "languages",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://industrytoday.com/wp-content/uploads/2018/12/business-3224643_1920.jpg"
+        "category": "technology",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "category": "business",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "category": "generalknowledge",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "category": "cook",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "category": "sports",
+        "thumbnail": ""
     },
     {
-        "category": "Business",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "category": "music",
+        "thumbnail": ""
     }
 ]
