@@ -4,8 +4,8 @@
     "version": "1.1",
     "type": "update",
     "show": true,
-    "force": true,
-    "positive": Download",
+    "force": false,
+    "positive": "Download",
     "negative":"Cancel",
     "url": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en"
 }
