@@ -1,9 +1,11 @@
 [
     {
+        "title": "Technology",
         "category": "technology",
         "thumbnail": "https://longreadsblog.files.wordpress.com/2019/01/GettyImages-955854460.jpg?w=1200"
     },
     {
+        "title": "Business",
         "category": "Business",
         "thumbnail": "https://industrytoday.com/wp-content/uploads/2018/12/business-3224643_1920.jpg"
     }
