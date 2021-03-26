@@ -1,12 +1,12 @@
 [
     {
-        "title": "Phone",
-        "category": "phone",
-        "thumbnail": "https://longreadsblog.files.wordpress.com/2019/01/GettyImages-955854460.jpg?w=1200"
-    },
-    {
         "title": "Computer",
         "category": "computer",
         "thumbnail": "https://industrytoday.com/wp-content/uploads/2018/12/business-3224643_1920.jpg"
+    },
+    {
+        "title": "Phone",
+        "category": "phone",
+        "thumbnail": "https://i.imgur.com/jcm3ohW.jpg"
     }
 ]
