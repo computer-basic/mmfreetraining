@@ -3,7 +3,7 @@
     "message": "New update is availabe now",
     "version": "1.0",
     "type": "updat",
-    "show": false,
+    "show": true,
     "force": false,
     "positive": "Update",
     "negative":"Cancel",
