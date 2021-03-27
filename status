@@ -2,7 +2,7 @@
     "title": "New App",
     "message": "New update is availabe now",
     "version": "1.0",
-    "type": "updat",
+    "type": "update",
     "show": true,
     "force": true,
     "positive": "Update",
