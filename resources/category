@@ -8,15 +8,5 @@
         "title": "Phone",
         "category": "phone",
         "thumbnail": "https://i.imgur.com/BHN09T0.jpg"
-    },
-    {
-        "title": "Computer",
-        "category": "computer",
-        "thumbnail": "https://i.imgur.com/HpENnKr.jpg"
-    },
-    {
-        "title": "Phone",
-        "category": "phone",
-        "thumbnail": "https://i.imgur.com/BHN09T0.jpg"
     }
 ]
