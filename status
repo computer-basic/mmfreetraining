@@ -2,7 +2,7 @@
     "title": "New App",
     "message": "New update is availabe now",
     "icon": "https://i.imgur.com/wlRVkeH.png",
-    "version": "1.0",
+    "version": "1.1",
     "type": "update",
     "show": true,
     "force": true,
