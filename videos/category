@@ -1,27 +1,30 @@
-[
-    {
-        "title": "Language",
-        "category": "languages",
-        "thumbnail": "https://i.imgur.com/M7oy6ZI.png"
-    },
-    {
-        "title": "Computer",
-        "category": "computer",
-        "thumbnail": "https://i.imgur.com/ES4W2Vo.jpg"
-    },
-    {
-        "title": "Business",
-        "category": "business",
-        "thumbnail": "https://i.imgur.com/5WYpOYm.jpg"
-    },
-    {
-        "title": "Knowledge",
-        "category": "generalknowledge",
-        "thumbnail": "https://i.imgur.com/7EujDBR.png"
-    },
-    {
-        "title": "Music",
-        "category": "music",
-        "thumbnail": "https://i.imgur.com/AyoDpES.jpg"
-    }
-]
+{
+    "youTube": "AIzaSyCwpgig4ddaKgxphX-FrLOFoUMKVoR9MgE",
+    "categoryList": [
+        {
+            "title": "Language",
+            "category": "languages",
+            "thumbnail": "https://i.imgur.com/M7oy6ZI.png"
+        },
+        {
+            "title": "Computer",
+            "category": "computer",
+            "thumbnail": "https://i.imgur.com/ES4W2Vo.jpg"
+        },
+        {
+            "title": "Business",
+            "category": "business",
+            "thumbnail": "https://i.imgur.com/5WYpOYm.jpg"
+        },
+        {
+            "title": "Knowledge",
+            "category": "generalknowledge",
+            "thumbnail": "https://i.imgur.com/7EujDBR.png"
+        },
+        {
+            "title": "Music",
+            "category": "music",
+            "thumbnail": "https://i.imgur.com/AyoDpES.jpg"
+        }
+    ]
+}
