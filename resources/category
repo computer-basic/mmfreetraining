@@ -1,11 +1,11 @@
 [
     {
-        "title": "Computer",
+        "title": "Computer Software",
         "category": "computer",
         "thumbnail": "https://i.imgur.com/HpENnKr.jpg"
     },
     {
-        "title": "Phone",
+        "title": "Phone Software",
         "category": "phone",
         "thumbnail": "https://i.imgur.com/BHN09T0.jpg"
     }
