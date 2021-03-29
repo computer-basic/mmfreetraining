@@ -6,7 +6,22 @@
     },
     {
         "id": 2,
-        "title": "Lightroom",
+        "title": "Photoshop",
+        "thumbnail": ""
+    },
+    {
+        "id": 3,
+        "title": "Font",
+        "thumbnail": ""
+    },
+    {
+        "id": 4,
+        "title": "Video Edit",
+        "thumbnail": ""
+    },
+    {
+        "id": 5,
+        "title": "Facebook",
         "thumbnail": ""
     }
 ]
