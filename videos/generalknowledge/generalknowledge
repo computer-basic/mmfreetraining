@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "title": "Photoshop",
+        "title": "Lightroom Mobile",
         "thumbnail": ""
     },
     {
@@ -16,11 +16,6 @@
     },
     {
         "id": 4,
-        "title": "Video Edit",
-        "thumbnail": ""
-    },
-    {
-        "id": 5,
         "title": "Facebook",
         "thumbnail": ""
     }
