@@ -25,6 +25,11 @@
             "title": "Music",
             "category": "music",
             "thumbnail": "https://i.imgur.com/AyoDpES.jpg"
+        },
+        {
+            "title": "Sport",
+            "category": "sport",
+            "thumbnail": "https://i.imgur.com/HS9eQn9.jpg"
         }
     ]
 }
