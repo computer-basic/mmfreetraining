@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Chess",
-        "thumbnail": "https://i.imgur.com/BAOLFY2.png"
+        "thumbnail": "https://i.imgur.com/iYimgW7.jpg"
     },
     {
         "id": 2,
@@ -12,11 +12,11 @@
     {
         "id": 3,
         "title": "Snooker",
-        "thumbnail": "https://i.imgur.com/xFZJT3w.png"
+        "thumbnail": "https://i.imgur.com/N0elsJI.jpg"
     },
     {
         "id": 4,
         "title": "Football",
-        "thumbnail": "https://i.imgur.com/f2xeM8g.png"
+        "thumbnail": "https://i.imgur.com/BGxjGuV.jpg"
     }
 ]
