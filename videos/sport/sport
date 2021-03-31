@@ -2,21 +2,21 @@
     {
         "id": 1,
         "title": "Chess",
-        "thumbnail": ""
+        "thumbnail": "https://i.imgur.com/BAOLFY2.png"
     },
     {
         "id": 2,
         "title": "Chinn",
-        "thumbnail": ""
+        "thumbnail": "https://i.imgur.com/JMq8KcI.png"
     },
     {
         "id": 3,
         "title": "Snooker",
-        "thumbnail": ""
+        "thumbnail": "https://i.imgur.com/xFZJT3w.png"
     },
     {
         "id": 4,
         "title": "Football",
-        "thumbnail": ""
+        "thumbnail": "https://i.imgur.com/Q0T1WsU.png"
     }
 ]
