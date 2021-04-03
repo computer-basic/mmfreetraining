@@ -10,5 +10,11 @@
         "name": "YouTube",
         "size": "15.63 MB",
         "link": "https://www.mediafire.com/file/dzys0m454y5nwbn/YouTube.apk/file"
+    },
+    {
+        "icon": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg=s360-rw",
+        "name": "Lightroom",
+        "size": "91.4 MB",
+        "link": "https://m.apkpure.com/adobe-lightroom-photo-editor-pro-camera/com.adobe.lrmobile/download?from=details"
     }
 ]
